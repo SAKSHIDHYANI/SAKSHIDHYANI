@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SAKSHIDHYANI
 - 👀 I’m interested in Data Science, Machine Learning
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning.
-- 📫 How to reach me sakshidhyani73@gmail.com
+- 📫 How to reach me sakshidhyani73@gmail.com 
+- ✨ Linkedin Profile: https://www.linkedin.com/in/sakshi-dhyani/ 
 
 <!---
 SAKSHIDHYANI/SAKSHIDHYANI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
